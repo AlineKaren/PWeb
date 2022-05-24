@@ -1,0 +1,61 @@
+/*
+* Atividade 13
+* Disciplina de Programação Web
+* Fatec Sorocaba
+* 
+* Autora: Aline Herculano
+*/
+
+body{
+    text-align: center;
+    padding-top: 8px;
+    background-color: rgb(100,149,237);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.1;
+    font-weight: 400
+    line-height: 1.2;
+}
+    
+}
+header{
+    text-align: center;
+    width: 100%;
+    max-height: 5vh;
+    font-size: 1em;
+    color: black;
+}
+
+main{
+    text-align: center;
+    width: 100%;
+    min-height: 8vh;
+    font-size: 1em;
+    padding-top: 5px;
+   
+}
+
+main>h1{
+    text-align: center;
+    
+}
+
+.footer-bottom{
+    position: absolute;
+    width: 50%;
+    margin-bottom: 10px;
+    margin-left: 180px;
+    bottom: 0px;
+    display: flex;
+    color: rgb(28,28,28);
+    justify-content:  right;
+    align-items: center;
+    text-align: left;
+    font-size: 1rem;
+    margin-top: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+.footer-bottom img {
+    position: sticky;
+    object-position: right;
+  }
