@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 
 
-> Resultado Site de Notícias. 
+> Resultado do Site de Notícias. 
 
 O projeto foi criado em:
 
