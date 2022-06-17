@@ -7,13 +7,17 @@ Aula de PWEB | Professora: Denilce Veloso
 
 
 * Encontre na rede 3 figuras: janela aberta, janela fechada e janela quebrada. Criar uma página que no 
-carregamento mostra a janela fechada com um título “Abra a Janela”. Se mover com o mouse sobre a imagem 
-da janela fechada, mostra a janela aberta (abre a janela), se sair com o mouse da imagem mostra a janela 
-fechada (fecha a janela). Se clicar sobre a imagem mostra a imagem da janela quebrada(quebra a janela).
+carregamento mostra a janela fechada com um título “Abra a Janela”. 
+
+* Se mover com o mouse sobre a imagem da janela fechada, mostra a janela aberta (abre a janela), se sair 
+com o mouse da imagem mostra a janela fechada (fecha a janela). Se clicar sobre a imagem mostra a imagem da 
+janela quebrada(quebra a janela).
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/78798697/174388223-6c3b832f-d49f-4cc6-9f2e-0ebc13a0f4b8.png)
-________________________________________________________________________________________________________________________________________________________________
+
+_____________________________________________________________________________________________________________________________________________________
 
 
 ![image](https://user-images.githubusercontent.com/78798697/174388264-8e9e35ec-4a1d-4812-a532-77ecd9f1ddc1.png)
