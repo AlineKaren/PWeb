@@ -19,14 +19,18 @@ deve realmente sera berta;
 * use o evento onchange do tag <select> para carregar o curso escolhido.
 
 <br>
+  
 
 ![image](https://user-images.githubusercontent.com/78798697/174392680-577d4316-34de-4240-ae10-04b79c24c84b.png)
+  
 ________________________________________________________________________________________________________________________________________________________________
 
 > Resultado Informações sobre os cursos da Fatec Sorocaba. 
 
+  
 O projeto foi criado em:
 
+  
 - [x] Criação do HTML
 - [x] Criação do CSS
 - [x] Criação do JavaScript
