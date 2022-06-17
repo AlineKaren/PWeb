@@ -26,5 +26,31 @@ deve realmente sera berta;
 ________________________________________________________________________________________________________________________________________________________________
 
 > Resultado Informações sobre os cursos da Fatec Sorocaba. 
+  
+  
+O projeto foi criado em:
+
+- [x] Criação do HTML
+  
+- [x] Criação do CSS
+  
+- [x] Criação do JavaScript
+
+
+## 🤝 Colaboradores
+  
+
+Pessoa que contribuiu para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+        <br>
+          <b>Aline Herculano</b>
+      </a>
+    </td>
+   </tr>
+</table>
+
 
   
