@@ -1,22 +1,24 @@
-> Exercicício 14 
+# Exercício 14 - Formulário Principal
 
-Aula de PWEB 
-Professora: Denilce Veloso
 
- Criar uma função validar no evento onsubmit do Form;
+Aula de PWEB | Professora: Denilce Veloso
 
- Nome não pode termenos que 10 caracteres;
+* Criar uma função validar no evento onsubmit do Form;
 
- Email deve ter os caracteres @ e;
+*  Nome não pode termenos que 10 caracteres;
 
- Comentário deve ter no mínimo 20 caracteres;
+*  Email deve ter os caracteres @ e;
 
- Pesquisa (obrigatório). Se não: Retornar: “Que bom que vocêvoltou a visitar esta página!”, casocontrário: “Volte sempre à está página!”. 
+*  Comentário deve ter no mínimo 20 caracteres;
+
+*  Pesquisa (obrigatório). Se não: Retornar: “Que bom que você voltou a visitar esta página!”, caso contrário: “Volte sempre à está página!”. 
 Utilize mesmo atributo name nos radios e;
 
- Utilizar document.nomeform.elements[] na função – pelo menos em algum caso.
+*  Utilizar document.nomeform.elements[] na função – pelo menos em algum caso.
+
 
 ![image](https://user-images.githubusercontent.com/78798697/174303325-96e8b43a-0690-4f30-95b5-25bb85ae90c2.png)
+
 
 > Resultado Formulário Principal. 
 
