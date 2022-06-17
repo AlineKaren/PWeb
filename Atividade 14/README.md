@@ -1,9 +1,8 @@
 # Exercício 14 - Formulário Principal
 
-
+<br>
 Aula de PWEB | Professora: Denilce Veloso
-
-
+<br>
 
 * Criar uma função validar no evento onsubmit do Form;
 
