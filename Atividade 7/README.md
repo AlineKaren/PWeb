@@ -20,7 +20,7 @@ Aula de PWEB | Professora: Denilce Veloso
 ![image](https://user-images.githubusercontent.com/78798697/174320487-c46939df-7935-4f43-a709-02f017c18684.png)
 ________________________________________________________________________________________________________________________________________________________________
 
-> Resultado do Site de Notícias. 
+> Resultado do Jogo Jo Ken Pô. 
 
 O projeto foi criado em:
 
