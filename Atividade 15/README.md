@@ -21,31 +21,10 @@ deve realmente sera berta;
 <br>
   
 
-![image](https://user-images.githubusercontent.com/78798697/174392680-577d4316-34de-4240-ae10-04b79c24c84b.png)
-  
+![image](https://user-images.githubusercontent.com/78798697/174394696-4e92bff6-cf33-49a6-bab6-0ba39fc087e0.png)
+
 ________________________________________________________________________________________________________________________________________________________________
 
 > Resultado Informações sobre os cursos da Fatec Sorocaba. 
 
   
-O projeto foi criado em:
-
-  
-- [x] Criação do HTML
-- [x] Criação do CSS
-- [x] Criação do JavaScript
-
-
-## 🤝 Colaboradores
-
-Pessoa que contribuiu para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-        <br>
-          <b>Aline Herculano</b>
-      </a>
-    </td>
-   </tr>
-</table>
