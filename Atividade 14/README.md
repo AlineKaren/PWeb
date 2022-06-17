@@ -2,7 +2,8 @@
 
 <br>
 Aula de PWEB | Professora: Denilce Veloso
-<br>
+</br>
+
 
 * Criar uma função validar no evento onsubmit do Form;
 
@@ -17,9 +18,9 @@ Utilize mesmo atributo name nos radios e;
 
 *  Utilizar document.nomeform.elements[] na função – pelo menos em algum caso.
 
-
+<br>
 ![image](https://user-images.githubusercontent.com/78798697/174303325-96e8b43a-0690-4f30-95b5-25bb85ae90c2.png)
-
+</br>
 
 > Resultado Formulário Principal. 
 
