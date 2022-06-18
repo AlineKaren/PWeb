@@ -1,4 +1,4 @@
-# Portifólio 
+# Portfólio 
 
 <br>
 Aula de PWEB | Professora: Denilce de Almeida Oliveira Veloso
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 ![portifolio6](https://user-images.githubusercontent.com/78798697/174452793-8ab3b61c-f55d-4df2-9ca4-2e9da44d3c0b.jpg)
 
 
-> Resultado do Portifólio finalizado.
+> Resultado do Portfólio finalizado.
 
 O projeto foi criado em:
 
