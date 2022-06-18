@@ -49,7 +49,7 @@ Pessoa que contribuiu para este projeto:
 <table>
   <tr>
     <td align="center">
-        <img src="imagens/eu.jpg" width="100px;" alt="Foto Aline Herculano"/><br>
+        <img src="imagens/eu.jpeg" width="100px;" alt="Foto Aline Herculano"/><br>
         <sub>
           <b>Aline Herculano</b>
         </sub>
