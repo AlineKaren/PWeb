@@ -1,4 +1,4 @@
-# Exercício 3 - INDÚSTRIA 4.0
+# Exercício 3 - Indústria 4.0
 
 <br>
 Aula de PWEB | Professora: Denilce Veloso
