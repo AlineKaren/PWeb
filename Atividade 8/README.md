@@ -1,4 +1,4 @@
-# Exercício 8 - Pesquisa do Lançamento de um Filme
+# Exercício 8 - Pesquisa sobre o Lançamento de um Filme
 
 <br>
 Aula de PWEB | Professora: Denilce Veloso
